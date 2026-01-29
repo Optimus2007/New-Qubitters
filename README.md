@@ -43,7 +43,7 @@ If any issues occur, try deleting cache in your browser and refreshing the page.
 
 ### Steps for qBraid Environment Setup:
 
-1. Click the `Launch on qBraid` button above <img align="right" width= "43%" src="images/image.png">
+1. Click the `Launch on qBraid` button above <img align="right" width= "33%" src="images/image.png">
 
 2. Navigate to GIT in the left sidebar and clone this repository
 
@@ -53,7 +53,7 @@ If any issues occur, try deleting cache in your browser and refreshing the page.
 
 5. Install `CUDA-Q (v0.13.0)` - this will take a few minutes
 
-6. Navigate to `CUDA-Q and GPU Quantum Environments` <img align="right" width ="43%" src="images/image-2.png">
+6. Navigate to `CUDA-Q and GPU Quantum Environments` <img align="right" width ="33%" src="images/image-2.png">
 
 7. Once installation is complete, open the `labs_tutorial.ipynb` notebook
 
