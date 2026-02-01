@@ -1,0 +1,14 @@
+TEAM NEW-QUBITTERSD,
+During the last 48 hours, this team had work extremely hard and communicated well to get the most efficient result possible in phase 1 and phase 2 of this Hackathon problem.
+The Team planned to use QAOA for the QC-MTS in hopes of achieveing higher accuracy and lower auto-correlation. 
+
+Furthermore, We included QMF due to a paper, a member of our team found which 
+could optimize the code and get even better results for larger datasets as it searches the lowest energy in one go. 
+
+We will be pushing the Following files in our submission:
+1. READ ME SUBMISSION
+2. NQ-PHASE2 SUBMISSION ( The final code submitted for the hackathon problem)
+3. NQ PRESENTATION (for our code)
+4.ai_report inside phase2_readme
+                    
+        
